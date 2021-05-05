@@ -1,0 +1,11 @@
+title: 'progLogs/5月'
+summary: 'その日身につけたプログラミングの知識を記録中' # 本の説明
+topics: ['javascript', 'react', 'typescript', 'blog', 'output'] # トピック（5つまで）
+published: false # falseだと下書き
+price: 0 # 有料の場合200〜5000
+toc_depth: 2 # Chapterの目次 0: なし, 1: h1, 2: h2, 3: h3
+
+# chapters: # チャプターの順番指定
+#   - example1
+#   - example2
+# なにも書かなければ,辞書順になる
