@@ -4,5 +4,8 @@
 
 - update
   npm install zenn-cli@latest
-- create new md
+- create new
   npx zenn new:article
+  npx zenn new:book
+- preview
+  yarn zenn preview
