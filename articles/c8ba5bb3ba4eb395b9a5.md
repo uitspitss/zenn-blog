@@ -3,7 +3,7 @@ title: 'React×TypeScriptでfower使うとき'
 emoji: '🗂'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['react', 'typescript', 'fower']
-published: false
+published: true
 ---
 
 ## fower とは
