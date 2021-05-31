@@ -8,7 +8,7 @@ published: true
 
 ## fower とは
 
-Tailwind に対応した Next.js 作ってる Vercel が出したやつ
+Tailwind に対抗して Vercel( Next.js 作ってる組織) が出した CSSinJS のライブラリ
 
 https://fower.vercel.app/
 
