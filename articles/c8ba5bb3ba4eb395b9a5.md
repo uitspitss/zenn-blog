@@ -8,9 +8,14 @@ published: true
 
 ## fower とは
 
-Tailwind に対抗して Vercel( Next.js 作ってる組織) が出した CSSinJS のライブラリ
-
 https://fower.vercel.app/
+
+以下のコンセプトで作成されたスタイリングツール。（引用元: [https://fower.vercel.app/blog#core-concept](https://fower.vercel.app/blog#core-concept))
+
+- ユーティリティーファースト
+- 型安全
+- フレームワーク非依存
+- CSS in JS
 
 好きだ
 
